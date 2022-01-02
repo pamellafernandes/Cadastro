@@ -12,7 +12,7 @@
 </div>
 
 ### Inspiração
-Este projeto foi inspirado em uma aula do canal Girl Coding <a src="https://www.youtube.com/watch?v=Q68vbJplf7I">Girl Coding</a>
+Este projeto foi inspirado em uma aula do canal <a href="https://www.youtube.com/watch?v=Q68vbJplf7I">Girl Coding</a>
 
 <h1 align="center"> 
 	 🚀 Projeto concluído com sucesso... 🚀
